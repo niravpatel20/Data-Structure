@@ -65,8 +65,5 @@ public class QueueOperation{
 		System.out.println("Size of Queue is : " + q.getSize());
 		q.deQueue();
 		System.out.println("Size of Queue is : " + q.getSize());
-
-		
-		
 	}
 }
